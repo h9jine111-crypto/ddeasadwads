@@ -10,7 +10,7 @@ API_ID = 32012812
 API_HASH = "9fc5466fdbb972074e541c9b9fea2339"
 
 # ВСТАВЬ СВОЙ ТОКЕН GITHUB (ghp_...)
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 
 # Используем мощную модель GPT-4o-mini (она бесплатна через Github Models)
 client_ai = OpenAI(
